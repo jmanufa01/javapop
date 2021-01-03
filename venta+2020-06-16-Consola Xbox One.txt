@@ -1,0 +1,9 @@
+************Recibo*************
+Datos del producto vendido: 
+Título: Consola Xbox One, Descripción: Vendo esta Xbox en muy buen estado que ya no uso., Categoria: Consolas y videojuegos, Estado: ComoNuevo, Precio: 249.99€, Ubicacion del cliente: Ciudad: Alicante, Código Postal: 24567
+DNI del vendedor: 08647853F
+DNI del comprador: 08774934F
+Nombre del vendedor: Javier Gomez
+Nombre del Comprador: Sergio Sanchez
+Fecha de la compra: 2020-06-16
+*****************************

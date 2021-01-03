@@ -1,0 +1,9 @@
+************Recibo*************
+Datos del producto vendido: 
+Título: Nike Air Force, Descripción: Vendo estas Air Force X Supreme a muy buen precio en buen Estado. Talla 44.5, Categoria: Moda y Accesorios, Estado: Nuevo, Precio: 234.6€, Ubicacion del cliente: Ciudad: Alcalá de Henares, Código Postal: 28806
+DNI del vendedor: 84758493F
+DNI del comprador: 08774934F
+Nombre del vendedor: José Manuel Fando
+Nombre del Comprador: Sergio Sanchez
+Fecha de la compra: 2020-06-16
+*****************************

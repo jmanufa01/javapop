@@ -1,0 +1,22 @@
+-classpath
+'C:/Users/Manu/.m2/repository/unknown/binary/AbsoluteLayout/SNAPSHOT/AbsoluteLayout-SNAPSHOT.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/Manu/Documents/NetBeansProjects/TrabajoFinal/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2020. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Manu/Documents/NetBeansProjects/TrabajoFinal/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'JavaPop 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'JavaPop 1.0-SNAPSHOT API'
